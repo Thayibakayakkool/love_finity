@@ -1,16 +1,11 @@
-# love_finity
+![Screenshot_1726809166](https://github.com/user-attachments/assets/3e1d8a12-2427-4878-90c2-f11891e574c3)# Love_Finity
 
-A new Flutter project.
+Couple App.
 
-## Getting Started
+## Settings Screen
 
-This project is a starting point for a Flutter application.
+<r>
+<img src="https://github.com/user-attachments/assets/4797c5f9-2bc9-4436-b6c3-7ba07cff7b7c" width="200" height="400">
+<img src="https://github.com/user-attachments/assets/3d8888b5-ec76-44bd-96ef-9bddfd9dc2c4" width="200" height="400">
+</r>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
